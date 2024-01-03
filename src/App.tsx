@@ -195,6 +195,7 @@ const ControlButton = styled.button`
   &:hover {
     background-color: #303030;
     color: white;
+    
   }
 `
 
